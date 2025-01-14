@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">मॉड्यूल 6-मिक्सिंग और स्माइजिंग</langstring>
+          <langstring xml:lang="x-none">मॉड्यूल 6-मिक्सिंग और स्माइज़िंग</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,13 +50,13 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="मॉड्यूल_6-मिक्सिंग_और_स्माइजिंग_ORG">
-    <organization identifier="मॉड्यूल_6-मिक्सिंग_और_स्माइजिंग_ORG">
-      <title>मॉड्यूल 6-मिक्सिंग और स्माइजिंग</title>
+  <organizations default="मॉड्यूल_6-मिक्सिंग_और_स्माइज़िंग_ORG">
+    <organization identifier="मॉड्यूल_6-मिक्सिंग_और_स्माइज़िंग_ORG">
+      <title>मॉड्यूल 6-मिक्सिंग और स्माइज़िंग</title>
       <item identifier="मॉड्यूल_5:_
 कच्चे_माल_की_जानकारी_-_
 माइनर_सामग्री_और_पाम_ऑइल_SCO" isvisible="true" identifierref="__6Tj9tc3ssqO_RES">
-        <title>मॉड्यूल 6-मिक्सिंग और स्माइजिंग</title>
+        <title>मॉड्यूल 6-मिक्सिंग और स्माइज़िंग</title>
       </item>
     </organization>
   </organizations>
