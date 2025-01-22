@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6Tj9tc3ssqO" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6d0LUmTXooD" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -55,13 +55,13 @@
       <title>मॉड्यूल 6-मिक्सिंग और स्माइज़िंग</title>
       <item identifier="मॉड्यूल_5:_
 कच्चे_माल_की_जानकारी_-_
-माइनर_सामग्री_और_पाम_ऑइल_SCO" isvisible="true" identifierref="__6Tj9tc3ssqO_RES">
+माइनर_सामग्री_और_पाम_ऑइल_SCO" isvisible="true" identifierref="__6d0LUmTXooD_RES">
         <title>मॉड्यूल 6-मिक्सिंग और स्माइज़िंग</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6Tj9tc3ssqO_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6d0LUmTXooD_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6LQh98WDfml.png" />
       <file href="mobile/5cKNShgXJya.png" />
@@ -94,13 +94,6 @@
       <file href="mobile/6KJSmXNbZzI.png" />
       <file href="mobile/691nFdWLV8B.png" />
       <file href="mobile/6ay35DL3yaW.png" />
-      <file href="mobile/6q1pKQ5mT4h.png" />
-      <file href="mobile/6hPywDBIfHv.png" />
-      <file href="mobile/5ZqXzKsDkC4.png" />
-      <file href="mobile/6WYAYxrj7oO.png" />
-      <file href="mobile/6kRa2W7mx41.png" />
-      <file href="mobile/5eDMyNZMfND.png" />
-      <file href="mobile/6MWrfzXpN66.png" />
       <file href="mobile/6TP1lQLSX6l.png" />
       <file href="mobile/6TTdHEtTVYP.png" />
       <file href="mobile/5skOIos2HI7.png" />
@@ -110,7 +103,7 @@
       <file href="story_content/6D3LceXD3vM_44100_160_0.mp3" />
       <file href="story_content/6XsVAacqzLI_44100_160_0.mp3" />
       <file href="meta.xml" />
-      <file href="mobile/5XUX0tfi7jP.png" />
+      <file href="mobile/6fUtjYfIxmq.png" />
       <file href="story_content/triggers.js" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
@@ -118,7 +111,6 @@
       <file href="html5/data/js/5pJ5lAjU0G9.js" />
       <file href="html5/data/js/5rXZZSLkr3T.js" />
       <file href="html5/data/js/64XaGd0ynDE.js" />
-      <file href="html5/data/js/6cee0rxJhWz.js" />
       <file href="html5/data/js/6chl78rnzt5.js" />
       <file href="html5/data/js/6DLFQhCQMoN.js" />
       <file href="html5/data/js/6TZXDCcyP9n.js" />
